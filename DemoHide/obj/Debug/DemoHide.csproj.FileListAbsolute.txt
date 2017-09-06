@@ -1,0 +1,14 @@
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\DemoHide.exe.config
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\DemoHide.exe
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\DemoHide.pdb
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\obj\Debug\DemoHide.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\obj\Debug\DemoHide.csproj.ResolveComReference.cache
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\obj\Debug\DemoHide.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\obj\Debug\DemoHide.exe
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\obj\Debug\DemoHide.pdb
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\ImageTypers.dll
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.dll
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.Support.dll
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.xml
+C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.Support.xml
