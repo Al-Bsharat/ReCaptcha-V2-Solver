@@ -12,3 +12,17 @@ C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.dll
 C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.Support.dll
 C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.xml
 C:\Users\Microsoft Tec\source\repos\DemoHide\DemoHide\bin\Debug\WebDriver.Support.xml
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\DemoHide.exe.config
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\DemoHide.exe
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\DemoHide.pdb
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\ImageTypers.dll
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\WebDriver.dll
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\WebDriver.Support.dll
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\WebDriver.xml
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\bin\Debug\WebDriver.Support.xml
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\obj\Debug\DemoHide.csprojResolveAssemblyReference.cache
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\obj\Debug\Interop.AutoItX3Lib.dll
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\obj\Debug\DemoHide.csproj.ResolveComReference.cache
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\obj\Debug\DemoHide.csproj.CoreCompileInputs.cache
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\obj\Debug\DemoHide.exe
+D:\GitHub Rep\ReCaptcha V2 Solver\ReCaptcha-V2-Solver\DemoHide\obj\Debug\DemoHide.pdb
