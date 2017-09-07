@@ -59,7 +59,7 @@ namespace DemoHide
             //js.ExecuteScript("document.getElementById('g-recaptcha-response').innerHTML='" + result + "';");
             #endregion
 
-            //driver.FindElement(By.Id("recaptcha-demo-submit")).Click();
+            driver.FindElement(By.Id("recaptcha-demo-submit")).Click();
 
         }
     }
