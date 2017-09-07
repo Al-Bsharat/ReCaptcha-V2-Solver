@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using AutoItX3Lib;
+﻿using AutoItX3Lib;
 using ImageTypers;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
+using System.Threading;
 
 namespace DemoHide
 {
@@ -31,7 +26,7 @@ namespace DemoHide
             //Auto.ControlClick("Notepad", "", @"[CLASS:Button; INSTANCE:2]");
         }
 
-        static void  SolveCap()
+        static void SolveCap()
         {
             IWebDriver driver = new FirefoxDriver();
             driver.Navigate().GoToUrl(@"https://www.google.com/recaptcha/api2/demo");
