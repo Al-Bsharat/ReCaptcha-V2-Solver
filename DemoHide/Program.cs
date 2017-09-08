@@ -26,6 +26,7 @@ namespace DemoHide
             //Auto.ControlClick("Notepad", "", @"[CLASS:Button; INSTANCE:2]");
         }
 
+
         static void SolveCap()
         {
             IWebDriver driver = new FirefoxDriver();
@@ -62,5 +63,7 @@ namespace DemoHide
             driver.FindElement(By.Id("recaptcha-demo-submit")).Click();
 
         }
+
+
     }
 }
